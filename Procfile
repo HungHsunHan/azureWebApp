@@ -1,0 +1,1 @@
+web: gunicorn app:gradio_summary.py
